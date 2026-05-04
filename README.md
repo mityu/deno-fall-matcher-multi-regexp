@@ -1,6 +1,7 @@
 # fall-matcher-multi-regexp
 
-A matcher for [fall.vim](https://github.com/vim-fall/fall.vim) that filters items based on query that is space-separated list of regex patterns.
+A matcher for [fall.vim](https://github.com/vim-fall/fall.vim) that filters
+items based on query that is space-separated list of regex patterns.
 
 ## Example
 
